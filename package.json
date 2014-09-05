@@ -1,0 +1,23 @@
+{
+  "name": "vec",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "qs": "0.4.2",
+    "formidable": "1.0.11",
+    "crc": "0.2.0",
+    "cookie": "0.0.4",
+    "bytes": "0.1.0",
+    "send": "0.0.3",
+    "fresh": "0.1.0",
+    "debug": "*",
+	"http-proxy": "0.8.x",
+    "connect": "2.3.x"
+  },
+  "devDependencies": {
+    "should": "*",
+    "mocha": "*",
+    "jade": "*",
+    "dox": "*"
+  }
+}
